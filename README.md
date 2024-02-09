@@ -12,13 +12,14 @@ export default function Page() {
 
   const getNoButtonText = () => {
     const phrases = [
-      "No",
-      "Are you sure?",
-      "Really sure?",
-      "Cmon pookie",
-      "Cmon its not that hard",
-      "Im gonna cry",
-      "You would regret being with mee",
+"No",
+"Are you sure?"
+"Really sure?"
+ "Cmon pookie"
+      "Cmon its not that hard"
+      "Im gonna cry"
+      "You would regret being with mee"
+    
       "I promise, pookie",
       "Im sad now",
       "Im so so sad now",
